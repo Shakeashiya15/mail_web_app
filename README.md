@@ -307,5 +307,27 @@ Possible future enhancements include:
 •	Improved authentication and session management
 •	Production deployment
 
+AI Assistant UI Demo
+
+The AI assistant can understand natural-language commands and control selected parts of the email interface.
+
+Example
+
+User command:
+
+> Go to Sent
+
+The assistant processes the command and navigates the application to the Sent Mail page.
+
+![AI Assistant UI Action Demo](./public/demo)
+
+The assistant also supports actions such as:
+
+- Go to Inbox
+- Go to Sent
+- Compose an email
+- Search emails using natural language
+
+
 Repository: https://github.com/Shakeashiya15/mail_web_app
 
